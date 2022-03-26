@@ -4,7 +4,7 @@
 
 <p align="center">
     <br>
-    <i>It might be a game, but it isn't meant to be played.</i>
+    <i>This might be a game, but it isn't something you play.</i>
 </p>
 <h6 align="right">
     Kayaba Akihiko, in <a href="https://en.wikipedia.org/wiki/Sword_Art_Online">Sword Art Online</a> 
