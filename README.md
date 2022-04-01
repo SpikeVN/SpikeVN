@@ -1,5 +1,4 @@
-<i><h4 align="center">You are watching</h4></i>
-<h1 align="center">SpikeBonjour's personal profile</h1>
+<h1 align="center">SpikeBonjour's personal place on the freaking internet</h1>
 <h3 align="center">「 Professional Idiot™ — Student 」</h2>
 
 <p align="center">
@@ -40,3 +39,4 @@
         </td>
     </tr>
 </table>
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
