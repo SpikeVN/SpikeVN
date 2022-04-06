@@ -1,11 +1,13 @@
-# SpikeBonjour's personal place on the freaking internet  
-## a completely normal and innocent `Professional Idiot™` + `Student`
+<h1 align="center">SpikeBonjour's personal place on the freaking internet</h1>
+<h2 align="center">「Professional Idiot™ — Student — Average Open Source enjoyer」</h2>
+
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
-<h5 align="center"><i>get informed!</i></h5>
-<hr>
+
+
+<h6 align="center"><i>get informed!</i></h6>
 <p align="center">
     <br>
-    <i>This might be a game, but it isn't something you play.</i>
+    <i>This, might be a game, but it isn't something you play.</i>
 </p>
 <h6 align="right">
     Kayaba Akihiko, in <a href="https://en.wikipedia.org/wiki/Sword_Art_Online">Sword Art Online</a> 
@@ -42,4 +44,3 @@
         </td>
     </tr>
 </table>
-<img source="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg" atl="ukraine support flag"></img>
