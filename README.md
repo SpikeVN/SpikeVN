@@ -1,9 +1,6 @@
 <h1 align="center">SpikeBonjour's personal place on the freaking internet</h1>
 <h2 align="center">「Professional Idiot™ — Student — Average Open Source enjoyer」</h2>
 
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
-
-
 <h6 align="center"><i>get informed!</i></h6>
 <p align="center">
     <br>
