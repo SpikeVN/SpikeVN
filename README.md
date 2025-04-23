@@ -5,7 +5,11 @@
 ## About me
 
 I'm Tri Phương, but you can call me Spike.
-> [!NOTE] FalcoLabs is the organization where I and my friends build projects together. It is not a real company, though I still assert my position as its CEO.
+
+<details>
+<summary><strong>About FalcoLabs</strong></summary>
+FalcoLabs is founded by me and some of my friends. It is where we build projects together (and also acts as a personal branding excercise of mine too). It is not a real company. FYI I'm its CEO.
+</details>
 
 ## My Projects
 
