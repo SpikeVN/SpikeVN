@@ -31,7 +31,6 @@ These projects are complete or in production.
 | 📦 shelved | [TheSeed](https://github.com/thebaoproject/TheSeed)   | 10k+ LOC Minecraft PaperMC plugin implementing the game featured in the anime *Sword Art Online*. I wish I still had the time to build this, but unfortunately that's not the case. |
 | 📦 shelved | [lovechessvn](https://github.com/SpikeVN/lovechessvn) | Generates Stockfish-powered funny chess commentary like the guy in the Youtube channel.                                                                                             |
 | 📦 shelved | [pycmdblock](https://github.com/SpikeVN/pycmdblock)   | a Python builder for programmatically generating Minecraft commands                                                                                                                 |
-|           |                                                       |                                                                                                                                                                                     |
 
 </details>
 
