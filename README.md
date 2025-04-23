@@ -1,21 +1,34 @@
-<h1 align="center">SpikeBonjour, aka Retarded Shitposter</h1>
-<h3 align="center">「Professional Idiot-cum-Shitposter™ — Insane-o-meter top scorer - Proprietary Software Destroyer」</h2>
+# Hi, I'm Spike!
 
-<table align="center" style="border: 0px;">
-    <tr>
-        <th><h4 align="center">My Big Projects</h4></th>
-    </tr>
-    <tr>
-        <td>
-            <li>
-                <a href="https://github.com/SpikeVN/tro-li">tro-li</a>: Your casual full-stack Python bot.
-            </li>
-            <li>
-                <a href="https://github.com/SpikeVN/pycmdblock">pycmdblock</a>: an easy way for Python developers to write Minecraft commands
-            </li>
-            <li>
-                <a href="https://github.com/thebaoproject/TheSeed">TheSeed</a>: the Block Art Online project: Minecraft plugin
-            </li>
-        </td>
-    </tr>
-</table>
+<h3 align="center">Tri Phuong Nguyen<br />「Student — Anime fan — Proprietary Software Destroyer」</h3>
+
+## About me
+
+I'm Tri Phương, but you can call me Spike.
+> [!NOTE] FalcoLabs is the organization where I and my friends build projects together. It is not a real company, though I still assert my position as its CEO.
+
+## My Projects
+
+These projects are complete or in production.
+
+| status      | name                                                                                                                       | description                                                                                                                                                                                                                                                                                                           |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ✨ in prod   | [owl](https://github.com/falcolabs/owl)                                                                                    | a ridiculously over-engineered Python gameshow engine, powered by a Rust-WASM based communication framework (JavaScript and Python bindings available)                                                                                                                                                                |
+| ✨ in prod   | [soundboard](https://github.com/falcolabs/woodpecker)                                                                      | a simple soundboard made with FastAPI and S                                                                                                                                                                                                                                                                           |
+| 🔥 completed | [gaylib](https://github.com/SpikeVN/gaylib) (Python) and [shitpostlib](https://github.com/SpikeVN/shitpostlib) (C rewrite) | inserts mispellings and emojis into the provided text to make it looks like it was written by a toddler. The latter is also ridiculously over-eng                                                                                                                                                                     |
+| 🔥 completed | [cardinal](https://github.com/SpikeVN/cardinal)                                                                            | a ridiculously complicated feature-packed Discord bot written in Python, with locale detection and per-user configuration, Firebase integration, data mining and espionage capabilities, raid detection and automatic countermeasures, homework solver, ChatGPT, music streaming, moderation, and many more features. |
+
+
+<details>
+<summary>Deprecated, cancelled, and abandoned projects</summary>
+
+| status    | name                                                  | description                                                                                                                                                                         |
+| --------- | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 📦 shelved | [TheSeed](https://github.com/thebaoproject/TheSeed)   | 10k+ LOC Minecraft PaperMC plugin implementing the game featured in the anime *Sword Art Online*. I wish I still had the time to build this, but unfortunately that's not the case. |
+| 📦 shelved | [lovechessvn](https://github.com/SpikeVN/lovechessvn) | Generates Stockfish-powered funny chess commentary like the guy in the Youtube channel.                                                                                             |
+| 📦 shelved | [pycmdblock](https://github.com/SpikeVN/pycmdblock)   | a Python builder for programmatically generating Minecraft commands                                                                                                                 |
+|           |                                                       |                                                                                                                                                                                     |
+
+</details>
+
+<h6 align="center">Made with 💖 from Vietnam</h6>
