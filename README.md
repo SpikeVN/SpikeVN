@@ -1,10 +1,10 @@
 # Hi, I'm Spike!
 
-<h3 align="center">Tri Phuong Nguyen<br />「Student — Anime fan — Proprietary Software Destroyer」</h3>
+<h3 align="center">SpikeVN<br />「Student — Anime fan — Proprietary Software Destroyer」</h3>
 
 ## About me
 
-I'm Tri Phương, but you can call me Spike.
+You can call me Spike.
 
 <details>
 <summary><strong>About FalcoLabs</strong></summary>
