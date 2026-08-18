@@ -83,7 +83,7 @@ kifBqoTp20G44Imu50UrYwy3NyXYuJ6YystNJxtxGQ2LEG/1
 | status  | name         | description |
 | ------- | ------------ | ----------- |
 | ⏱️ in progress | [kcc](https://github.com/falcolabs/kcc) | A Scrach (the visual programming language) intepreter written in Rust. The NodeJS moment for Scratch I hope. |
-| ✨ in prod | [golddb](https://github.com/SpikeVN/golddb) | gold price scraper, runs in 4-hour interval everyday from 6am to 6pm |
+| ⏱️ in progress | [chick](https://github.com/falcolabs/chick) | simple build tool and project manager |
 | ✨ in prod | [golddb](https://github.com/SpikeVN/golddb) | gold price scraper, runs in 4-hour interval everyday from 6am to 6pm |
 | ✨ in prod | [butcuacotam2](https://github.com/SpikeVN/butcuacotam2) | promotional Data Science themed visual novel written in SolidJS and Python |
 | ✨ in prod | [dstc-matching](https://github.com/SpikeVN/dstc-matching) | Tinder clone for matching random people together, with a built in profile viewer and admin controls |
