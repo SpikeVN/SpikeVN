@@ -1,6 +1,6 @@
-# Hi, I'm Spike!
+# Hi!
 
-<h3 align="center">Tri Phuong Nguyen<br />「Student — Amateur Designer — Proprietary Software Destroyer」</h3>
+<h3 align="center">Tri Phuong Nguyen<br />「Economics Student — Designer — Proprietary Software Destroyer」</h3>
 <p align="center">
  <img alt="Meme Badge Sponsored by AIPAC" src="https://img.shields.io/badge/Sponsored%20by-AIPAC-aqua" />
  <img alt="Meme Badge Federal Agent" src="https://img.shields.io/badge/Federal-Agent-green">
@@ -8,18 +8,20 @@
  <img alt="Static Badge" src="https://img.shields.io/badge/Boku%20wa-tanuki%20janai-aqua">  
 </p>
 
+<p align="center"><i>PSA: Omarchy's founder DHH, is a white-nationalist, accept millions of dollars in donations from far-right tech CEOs, and actively sponsor <a href="https://git.sr.ht/~rabbits/fashware">fashware</a>, including funding Varxy's hyprland after being banned from freedesktop.org. More at <a href="https://stopomarchy.org/">https://stopomarchy.org/</a>.</i></p>
+
 ## About me
 
-My name is Tri Phuong, but you can call me Spike.
+My name is Tri Phương. I do silly stuff with silly people.
 
 <details>
 <summary><strong>About FalcoLabs</strong></summary>
-FalcoLabs is founded by me and some of my friends. It is where we build projects together (and also acts as a personal branding excercise of mine too). It is not a real company. FYI I'm its CEO.
+FalcoLabs is founded by me and some of my friends. It is where we build projects together (and also acts as a personal branding excercise of mine too). It is not a real company.
 </details>
 
 I own a PGP key with fingerprint `BE27 4FDA FE86 B911 E0BA C3DB 5B2A A4FE 9449 ABF1`
 <details>
-<summary><strong>View public key</strong></summary>
+<summary><strong>Public key</strong></summary>
 <pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
